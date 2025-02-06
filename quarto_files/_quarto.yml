@@ -4,7 +4,7 @@ project:
 
 book:
   title: "docs"
-  author: "Norah Jones"
+  author: "Stefano Rapisarda"
   date: "2/5/2025"
   chapters:
     - index.qmd
@@ -17,8 +17,6 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
 
 
 
